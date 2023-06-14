@@ -25,3 +25,5 @@ See our [community guide](https://observablehq.com/plot/community).
 ## Contributing 🙏
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+[Bash Reference Manual](https://www.gnu.org/software/bash/manual/html_node/index.html)
